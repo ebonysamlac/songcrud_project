@@ -1,0 +1,1 @@
+var = "This is the first project to be publish through GitHub"
